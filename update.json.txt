@@ -1,0 +1,4 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://username.github.io/my-update-server/new_version.exe"
+}
